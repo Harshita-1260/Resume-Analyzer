@@ -1,6 +1,6 @@
-.....RESUME ANALYZER....
-Live Demo:resume-analyzer-bugerw2dbpiktr2jizhsvn.streamlit.app
+## .....RESUME ANALYZER....
 
+## 🌐 Live Demo:resume-analyzer-bugerw2dbpiktr2jizhsvn.streamlit.app
 
 ## ✨ Features
 
